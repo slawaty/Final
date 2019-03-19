@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "842540269230",
+    "firebase_url": "https://final-362a4.firebaseio.com",
+    "project_id": "final-362a4",
+    "storage_bucket": "final-362a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842540269230:android:c94f508b3e9964f0",
+        "android_client_info": {
+          "package_name": "thanakit.ruts.ac.th.afinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842540269230-2ua261qj02jv0t0mnfrjm07ra5gp6r9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGd9OxRU1q8rHzlE5PpcX-dkv85CAIAQg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
